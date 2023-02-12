@@ -1,0 +1,32 @@
+$primary-dark-color: #212a31;
+$primary-light-color: #fdd816;
+/* $font-size: 10px; */
+
+@media screen and (max-width: 599px) {
+    html {
+        font-size: 10px; 
+        
+    }     
+}
+@media screen and (min-width: 600px) and (max-width: 959px) {
+    html {
+        font-size: 12px; 
+        
+    }     
+}
+@media screen and (min-width: 960px) and (max-width: 1263px) {
+    html {
+        font-size: 16px; 
+    }   
+}
+@media screen and (min-width: 1264px) and (max-width: 1903px) {
+    html {
+        font-size: 18px; 
+    }    
+}
+@media screen and (min-width: 1904px) {
+    html {
+        font-size: 18px; 
+    }     
+}
+// deep-orange
